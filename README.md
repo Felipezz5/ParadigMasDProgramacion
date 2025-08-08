@@ -1,3 +1,5 @@
+Hola profe, todo lo deje en un archivo zip, en el codigo uso palabras como "Socio" ya que para mi hace mas divertido hacer el codigo. 
+
 Comparacion de Factorial: Recursivo vs Iterativo
 
 Este repositorio muestra como calcular el factorial de un numero usando dos enfoques: recursivo e iterativo. Se implementa en Python y C, y se comparan sus tiempos de ejecucion y uso de memoria.
@@ -7,7 +9,7 @@ Este repositorio muestra como calcular el factorial de un numero usando dos enfo
 - factorial_en_python: Codigo Python, incluye medicion de tiempo y memoria.
 - factorial_en_c: Codigo en C con medicion de tiempo.
 - grafica.py: Script en Python para graficar tiempos de ejecucion.
-- comparacion_tiempos.png: Se genera al correr `grafica.py`
+- comparacion_tiempos.png: Se genera al correr grafica.py
 
 - Requisitos
 
