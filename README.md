@@ -1,4 +1,4 @@
-Hola profe, todo lo deje en un archivo zip, en el codigo uso palabras como "Socio" ya que para mi hace mas divertido hacer el codigo. 
+Hola profe, todo lo deje en un archivo zip sin embargo tambien subi los archivos individuales, ah y en el codigo uso palabras como "Socio" ya que para mi hace mas divertido hacer el codigo. 
 
 Comparacion de Factorial: Recursivo vs Iterativo
 
